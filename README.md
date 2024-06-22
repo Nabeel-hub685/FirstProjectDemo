@@ -1,4 +1,3 @@
 # FirstProjectDemo
 this is gonna  be my first gitHUB project!
-
 this project is just to get used to of how to use gitHUB in coding life
